@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Models;
+namespace TrendspekApp\SharedModels;
 
 use Eloquent as Model;
 use Illuminate\Database\Eloquent\SoftDeletes;
